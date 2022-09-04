@@ -1,5 +1,6 @@
 # Selenium-Junit-
-###Here the following tasks are done:
+
+##Here the following tasks are done:
 
 1)Handle Form
 
@@ -34,7 +35,11 @@ JUnit Automation codes can be extracted from this
 
 Technology:
 Tool: Selenium
+
 IDE: Intellij
+
 Build tool: Gradle
+
 Language: Java
+
 Test_Runner: Junit
